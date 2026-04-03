@@ -83,7 +83,7 @@ I'm deeply fascinated by the current wave of **Generative AI** and **Agentic AI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manikanta-Peumalla1)
-[![Portfolio](https://img.shields.io/badge/Portfolio)](https://manikanta-peumalla1.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Black%20%26%20Yellow-black?style=for-the-badge&logo=google-chrome&logoColor=yellow)](https://manikanta-peumalla1.github.io/)
 
 ---
 
